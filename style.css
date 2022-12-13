@@ -35,7 +35,6 @@ main{
     display: flex;
     width: 50px;
     margin: 10px;
-    margin-left: 40px;
     border-radius: 25px;
     box-shadow: 2px 2px 5px #00000050;
     box-sizing: border-box;
